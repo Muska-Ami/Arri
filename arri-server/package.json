@@ -1,0 +1,25 @@
+{
+  "name": "arri-server",
+  "version": "0.1.0",
+  "description": "Arri Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muska-Ami/Arri.git"
+  },
+  "keywords": [
+    "Arri"
+  ],
+  "author": "Muska-Ami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Muska-Ami/Arri/issues"
+  },
+  "homepage": "https://github.com/Muska-Ami/Arri#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
